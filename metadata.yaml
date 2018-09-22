@@ -1,10 +1,13 @@
 _repo: Making-His-Mark_55217
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Mason, Robert L.
     gutenberg_agent_id: '48230'
     url: http://www.gutenberg.org/2009/agents/48230
+covers:
+- cover_type: archival
+  image_path: 55217-h/images/cover.jpg
 creator:
   author:
     agent_name: Alger, Horatio, Jr.
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/168
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55217#Making-His-Mark
 gutenberg_issued: '2017-07-29'
 gutenberg_type: Text
 identifiers:
