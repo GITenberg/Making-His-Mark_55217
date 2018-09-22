@@ -1,0 +1,34 @@
+_repo: Making-His-Mark_55217
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Mason, Robert L.
+    gutenberg_agent_id: '48230'
+    url: http://www.gutenberg.org/2009/agents/48230
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Preston, Charles F.
+    - Alger, Horatio
+    - Putnam, Arthur Lee
+    - Starr, Julian
+    - Jr., Horatio Alger
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2017-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55217'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Making His Mark
+url: http://www.gutenberg.org/ebooks/55217
